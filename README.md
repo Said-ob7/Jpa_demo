@@ -3,10 +3,10 @@
 <h3>Application de gestion de produits</h3>
 
 <h3>Architecture du projet :</h3>
-<img src="captures/Architecture.png">
+<img src="Captures/Architecture.png">
 
 <h3>les dépendances JPA, H2, Spring Web et Lombock :</h3>
-<img src="captures/Dependecies.png">
+<img src="Captures/Dependecies.png">
 
 <h3>l'entité JPA Product</h3>
 <img src="Captures/JpaProduct.png">
